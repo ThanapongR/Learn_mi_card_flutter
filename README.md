@@ -26,3 +26,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+## My result
+
+<img src="https://github.com/ThanapongR/learn-mi-card-flutter/blob/master/screenshot/mi_card.png"  width="30%" height="30%">
